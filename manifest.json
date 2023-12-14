@@ -1,12 +1,12 @@
 {
   "background_color": "#ffffff",
-  "description": "TileTwist: Puzzle Maker",
+  "description": "Puzzle Maker Pro",
   "dir": "ltr",
   "display": "standalone",
-  "name": "TileTwist: Puzzle Maker",
+  "name": "Puzzle Maker Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "TileTwist: Puzzle Maker",
+  "short_name": "Puzzle Maker Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "TileTwist: Puzzle Maker",
+      "name": "Puzzle Maker Pro",
       "url": "",
       "description": ""
     }
